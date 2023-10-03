@@ -1,2 +1,2 @@
 # Projects
-Personal projects and Assignments 
+My current repo for projects.
